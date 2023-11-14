@@ -1,0 +1,51 @@
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+{}
+
+
+font-family: 'Source Sans 3', sans-serif;
+
+
+#fffefe text offwhit colour
+#008ed6 span blue color
+#787879 text colour ash p
+#008ed6 1st buttondownlod body blue garo
+#1a1a1a text blakash
+#f2f2f2 bg colour
+#ededed bg color3
+color: #3d2514; for text halka pink
+
+box-shadow: 1px 1px 1px 1px #fcd2db;banner img sect er
+background-color: #fff9fe;form sect er
+
+ h1 span{	
+    color: #45000f;
+
+.btn-success:hover{
+    background: #d3606c;
+    border-color: #d3606c;
+
+
+ .btn-success
+
+    color: #3d2514;
+
+
+ 
+    background: #830000; line
+
+     Course
+              
+                  Graphic Design
+                  Web Design
+                  Business
+                  Marketing
+                  Engineering
+
+              Terms
+
+
+Useful Links
+
